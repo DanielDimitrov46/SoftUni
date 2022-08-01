@@ -26,8 +26,8 @@ while command != "Stop":
             print('Not enough fuel to make that ride')
     elif command[0] == "Refuel":
         fuel = int(command[2])
-        fuel2 = register[car][1]+fuel
-        if fuel2 >75:
+        available_fuel = register[car][1]
+        if available_fuel+fuel >75:
             fuel = 75-register[car][1]
             register[car][1] = 75
         else:
