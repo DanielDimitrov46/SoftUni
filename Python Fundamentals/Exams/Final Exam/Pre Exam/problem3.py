@@ -1,5 +1,3 @@
-from unittest import result
-
 number_of_pieces = int(input())
 register = {}
 
