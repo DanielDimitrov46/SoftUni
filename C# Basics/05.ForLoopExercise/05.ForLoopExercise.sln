@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demos", "Demos\Demos.csproj", "{3A55891E-CA10-41BB-9692-32496678FDED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.NumbersEndingin7", "01.NumbersEndingin7\01.NumbersEndingin7.csproj", "{101A9557-A0FC-4326-B524-7F9A387BA4FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.HalfSumElement", "02.HalfSumElement\02.HalfSumElement.csproj", "{F72DDD7E-2483-409E-A90C-14A3A0444DDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.OddEvenPosition", "03.OddEvenPosition\03.OddEvenPosition.csproj", "{A5301191-55B8-46F2-B2E0-8EAECCBDAA37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Histogram", "04.Histogram\04.Histogram.csproj", "{0919AF03-D172-4EA1-BCC9-F693B67935F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.DivideWithoutRemainder", "05.DivideWithoutRemainder\05.DivideWithoutRemainder.csproj", "{D81EC6D9-16B3-4A52-BA92-E83260453A1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Salary", "06.Salary\06.Salary.csproj", "{DC90E68A-0C81-4737-A164-875361E7B608}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A55891E-CA10-41BB-9692-32496678FDED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A55891E-CA10-41BB-9692-32496678FDED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A55891E-CA10-41BB-9692-32496678FDED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A55891E-CA10-41BB-9692-32496678FDED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{101A9557-A0FC-4326-B524-7F9A387BA4FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{101A9557-A0FC-4326-B524-7F9A387BA4FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{101A9557-A0FC-4326-B524-7F9A387BA4FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{101A9557-A0FC-4326-B524-7F9A387BA4FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F72DDD7E-2483-409E-A90C-14A3A0444DDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F72DDD7E-2483-409E-A90C-14A3A0444DDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F72DDD7E-2483-409E-A90C-14A3A0444DDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F72DDD7E-2483-409E-A90C-14A3A0444DDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5301191-55B8-46F2-B2E0-8EAECCBDAA37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5301191-55B8-46F2-B2E0-8EAECCBDAA37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5301191-55B8-46F2-B2E0-8EAECCBDAA37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5301191-55B8-46F2-B2E0-8EAECCBDAA37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0919AF03-D172-4EA1-BCC9-F693B67935F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0919AF03-D172-4EA1-BCC9-F693B67935F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0919AF03-D172-4EA1-BCC9-F693B67935F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0919AF03-D172-4EA1-BCC9-F693B67935F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D81EC6D9-16B3-4A52-BA92-E83260453A1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D81EC6D9-16B3-4A52-BA92-E83260453A1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D81EC6D9-16B3-4A52-BA92-E83260453A1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D81EC6D9-16B3-4A52-BA92-E83260453A1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC90E68A-0C81-4737-A164-875361E7B608}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC90E68A-0C81-4737-A164-875361E7B608}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC90E68A-0C81-4737-A164-875361E7B608}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC90E68A-0C81-4737-A164-875361E7B608}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {109809EF-B227-47D2-8FDD-9A8678D74739}
+	EndGlobalSection
+EndGlobal
