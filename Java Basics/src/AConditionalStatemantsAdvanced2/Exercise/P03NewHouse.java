@@ -2,7 +2,7 @@ package AConditionalStatemantsAdvanced2.Exercise;
 
 import java.util.Scanner;
 
-public class P03NewHouse {
+public class    P03NewHouse {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String flower = scanner.nextLine();
